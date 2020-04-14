@@ -1,1 +1,4 @@
 # CustomFaceDetection
+libraries:
+-opencv
+-pyttsx
